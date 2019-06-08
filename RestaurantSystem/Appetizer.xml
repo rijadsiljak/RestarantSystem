@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Appetizer>
+  <Meals>
+    <name>Sarma</name>
+    <price>10</price>
+    <category>Bosnian</category>
+    <type>Appetizer</type>
+  </Meals>
+  <Meals>
+    <name>12</name>
+    <type>Appetizer</type>
+    <price>12</price>
+    <category>Vegeterian</category>
+  </Meals>
+</Appetizer>

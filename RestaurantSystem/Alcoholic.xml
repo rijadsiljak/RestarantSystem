@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Alcoholic>
+  <Meals>
+    <name>Rakija</name>
+    <price>4</price>
+    <category>Bosnian</category>
+    <type>Alcoholic Drinks</type>
+  </Meals>
+</Alcoholic>

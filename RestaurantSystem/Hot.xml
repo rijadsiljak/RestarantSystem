@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Restaurant>
+  <Meals>
+    <name>as</name>
+    <price>14</price>
+    <type>Alcoholic Drinks</type>
+    <category>Vegeterian</category>
+    <date>29.5.2013 0:00:00</date>
+  </Meals>
+</Restaurant>

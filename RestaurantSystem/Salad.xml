@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Salad>
+  <Meals>
+    <name>Green</name>
+    <price>5</price>
+    <category>Vegeterian</category>
+    <type>Salad</type>
+  </Meals>
+</Salad>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reservation>
+  <Reserve>
+    <Table>1</Table>
+    <Name>Hamo Pipa</Name>
+    <Date>13.6.2013 0:00:00</Date>
+  </Reserve>
+  <Reserve>
+    <Table>4</Table>
+    <Name>EKo</Name>
+    <Date>31.10.2013 0:00:00</Date>
+  </Reserve>
+  <Reserve>
+    <Table>6</Table>
+    <Name>Jasmin</Name>
+    <Date>31.10.2013 0:00:00</Date>
+  </Reserve>
+</Reservation>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Soft>
+  <Meals>
+    <name>Milkshake</name>
+    <price>4</price>
+    <category>Kids</category>
+    <type>Soft Drinks</type>
+  </Meals>
+  <Meals>
+    <name>Fanta</name>
+    <type>Soft Drinks</type>
+    <price>2</price>
+    <category>Kids</category>
+  </Meals>
+</Soft>
